@@ -2,4 +2,4 @@
 
 First JavaScript game!
 
-run index.js to play
+run index.html to play
